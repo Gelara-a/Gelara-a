@@ -1,6 +1,5 @@
 <p align="center">
-[![Pomeranian](https://user-images.githubusercontent.com/101561179/199332220-eeeefbc7-6418-4a56-91e4-277dd1760e7a.jpg)](https://user-images.githubusercontent.com/101561179/199332220-eeeefbc7-6418-4a56-91e4-277dd1760e7a.jpg)
-   
+   <img src=''/>
 </p>
 
 <h1 align="center">Gelara Allahveisi</h1>
