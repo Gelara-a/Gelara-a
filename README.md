@@ -1,5 +1,5 @@
 <p align="center">
-   <img src='https://github.com/Gelara-a/Gelara-a/blob/main/images/IMG_20191230_203512.png'/>
+   <img src='https://github.com/Gelara-a/Gelara-a/blob/main/images/20725564.jpg'/>
 </p>
 
 <h1 align="center">Gelara Allahveisi</h1>
