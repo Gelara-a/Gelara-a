@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/shhm8905/shhm8905/blob/main/images/IMG_20210407_105601.jpg" />
 </p>
- ![IMG_20191230_203512](https://user-images.githubusercontent.com/101561179/199331697-c5b27b47-2b9a-4108-83f2-eeddba079108.png)
+![Pomeranian](https://user-images.githubusercontent.com/101561179/199332106-aac6a3b2-fa31-44de-88ea-1b8c1b9e578a.jpg)
 
 <h1 align="center">Gelara Allahveisi</h1>
 <p align="center">
